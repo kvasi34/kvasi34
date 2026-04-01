@@ -1,6 +1,6 @@
-# Hi, I'm Konstantin!
+# Hi, I'm Kostas!
 
-CS student at [Athens University of Economics and Business](https://www.aueb.gr/) 📚\
+Graduate student at [University of Dayton](https://udayton.edu/) 📚\
 [LinkedIn profile](https://www.linkedin.com/in/konstantinos-vasilopoulos-b0a144223/) 🔗
 
 # Skills
